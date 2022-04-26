@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Csgoodjr
-- 👀 I’m interested in Web Development, AI/ML, & Cyber Security
+- 👀 I’m interested in Full-Stack Web Development, AI/ML, & Cyber Security
 - 🌱 I’m currently learning about creating more responsive sites and pipelines
-- 💞️ I’m looking to collaborate on a new website
 - 📫 You can reach me at csgoodjr@gmail.com
 
 <!---
